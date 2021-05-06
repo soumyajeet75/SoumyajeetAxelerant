@@ -4,7 +4,6 @@
 --
 
 -- Generation Time: May 7, 2021 at 07:40 AM
--- Server version: 5.7.20-log
 -- PHP Version: 5.5.38
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
@@ -17,7 +16,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `2928202_raj`
+-- Database: `Soumyajeet_poll`
 --
 
 -- --------------------------------------------------------
