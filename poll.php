@@ -16,7 +16,7 @@
     <nav class="navbar navbar-default">
         <div class="container-fluid">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#">Axelerant Assignment</a>
+            <a class="navbar-brand" href="#">Competency Check</a>
           </div>
         </div>
       </nav>
